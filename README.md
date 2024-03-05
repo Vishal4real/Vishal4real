@@ -63,6 +63,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vishal4real/Vishal4real/output/snake.svg" alt="Snake animation" />
 
 ###
