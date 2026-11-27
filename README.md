@@ -5,11 +5,16 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vishal4real/GitHub-Profile-Stats/main/generated/overview.svg" height="180" alt="Vishal's GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/Vishal4real/GitHub-Profile-Stats/main/generated/languages.svg" height="180" alt="Vishal's GitHub Top Languages"  />
-</div>
+<table>
+  <tr>
+    <td>
+     <div align="center">
+        <img src="https://raw.githubusercontent.com/Vishal4real/GitHub-Profile-Stats/main/generated/overview.svg" height="180" alt="Vishal's GitHub Overview" />
+        <img src="https://raw.githubusercontent.com/Vishal4real/GitHub-Profile-Stats/main/generated/languages.svg" height="180" alt="Vishal's GitHub Top Languages"  />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ###
 
